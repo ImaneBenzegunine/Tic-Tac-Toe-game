@@ -1,5 +1,7 @@
 **Code Structure**
 TicTacToe.java: The main class that sets up the game, handles the game logic, and manages the GUI.
+
+
 **How to Play**
 The game starts by randomly selecting which player goes first.
 Player 1 is assigned the symbol X and Player 2 is assigned the symbol O.
